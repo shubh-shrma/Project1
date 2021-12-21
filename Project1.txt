@@ -2,3 +2,7 @@ Hello EveryOne
 This is my first project of Git
 This is the second line 
 
+<<<<<<< HEAD
+=======
+This is reset test
+>>>>>>> main
