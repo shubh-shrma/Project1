@@ -1,8 +1,10 @@
-Hello EveryOne
 This is my first project of Git
 This is the second line 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 This is reset test
 >>>>>>> main
+=======
+>>>>>>> 4147c68810a56b9feeef7574a562237326ad5330
